@@ -1,0 +1,12 @@
+com\onlineshopping\onlineshop\controllers\UserController.class
+com\onlineshopping\onlineshop\controllers\OrderController.class
+com\onlineshopping\onlineshop\PasswordEncoder.class
+com\onlineshopping\onlineshop\OnlineshopApplication.class
+com\onlineshopping\onlineshop\services\ProductRepo.class
+com\onlineshopping\onlineshop\models\ProductModel.class
+com\onlineshopping\onlineshop\controllers\ProductController.class
+com\onlineshopping\onlineshop\services\OrderRepo.class
+com\onlineshopping\onlineshop\models\UserModel.class
+com\onlineshopping\onlineshop\services\UserRepo.class
+com\onlineshopping\onlineshop\CustomResponse.class
+com\onlineshopping\onlineshop\models\OrderModel.class
